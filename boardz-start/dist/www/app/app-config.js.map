@@ -1,0 +1,1 @@
+{"version":3,"sources":["app-config.ts"],"names":[],"mappings":";;;;;;;YAAA;gBAAA;oBACW,gBAAW,GAAW,sCAAsC,CAAC;gBACxE,CAAC;gBAAD,oBAAC;YAAD,CAFA,AAEC,IAAA;YAFD,yCAEC,CAAA","file":"app-config.js","sourcesContent":["export class Configuration {\n    public apiEndpoint: string = 'https://boardzapi.azurewebsites.net/';\n}\n"],"sourceRoot":"/source/"}

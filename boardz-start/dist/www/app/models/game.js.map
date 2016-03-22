@@ -1,0 +1,1 @@
+{"version":3,"sources":["models/game.ts"],"names":[],"mappings":";;;;;;;YAAA;gBAAA;oBACI,OAAE,GAAW,IAAI,CAAC;gBAItB,CAAC;gBAAD,WAAC;YAAD,CALA,AAKC,IAAA;YALD,uBAKC,CAAA","file":"models/game.js","sourcesContent":["export class Game {\n    id: string = null;\n    name: string;\n    description: string;\n    userName: string;\n}\n"],"sourceRoot":"/source/"}

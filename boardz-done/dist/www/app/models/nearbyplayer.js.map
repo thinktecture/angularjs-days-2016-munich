@@ -1,0 +1,1 @@
+{"version":3,"sources":["models/nearbyplayer.ts"],"names":[],"mappings":";;;;;;;YAEA;gBAAA;gBAGA,CAAC;gBAAD,mBAAC;YAAD,CAHA,AAGC,IAAA;YAHD,uCAGC,CAAA","file":"models/nearbyplayer.js","sourcesContent":["import {Player} from './player';\n\nexport class NearByPlayer{\n    public distance: number;\n    public player: Player;\n}"],"sourceRoot":"/source/"}
