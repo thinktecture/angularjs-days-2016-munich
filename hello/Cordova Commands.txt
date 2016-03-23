@@ -1,0 +1,17 @@
+1.
+npm install cordova -g
+npm install ionic -g
+
+2.
+cordova create appapp com.demo.appapp HelloApp --link-to=./dist
+
+3.
+cd appapp
+
+4.
+cordova platform add ios
+cordova platform add ios
+
+5.
+cordova run ios
+cordova run ios
