@@ -236,3 +236,6 @@ _Pvt_Extensions
 .fake/
 hello/dist
 boardz/dist
+boardz-done/dist
+hello/appapp
+hello/mobile
